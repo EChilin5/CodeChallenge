@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CodeChallenge</string>
+    <string name="event_title_name">Swift Technique</string>
+    <string name="event_location_name">Los Angeles, CA</string>
+    <string name="event_time_info">Mon, 20 Jun 2020 5:00 AM</string>
+    <string name="description">Description</string>
+    <string name="back_icon">back icon</string>
+    <string name="veronica_swift_and_the_emmet_cohen_trio">Veronica Swift and the Emmet Cohen Trio</string>
+    <string name="sample_concert_image">sample concert image</string>
+    <string name="sample_heart_icon">sample heart icon</string>
+</resources>
